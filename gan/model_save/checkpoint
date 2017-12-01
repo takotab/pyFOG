@@ -1,0 +1,6 @@
+model_checkpoint_path: "model_5 2 *512-15000"
+all_model_checkpoint_paths: "model_5 2 *512-11000"
+all_model_checkpoint_paths: "model_5 2 *512-12000"
+all_model_checkpoint_paths: "model_5 2 *512-13000"
+all_model_checkpoint_paths: "model_5 2 *512-14000"
+all_model_checkpoint_paths: "model_5 2 *512-15000"
